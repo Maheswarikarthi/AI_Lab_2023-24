@@ -42,6 +42,8 @@ problem(blank_display).
 
 ### Output:
 <img width="311" alt="image" src="https://github.com/Maheswarikarthi/AI_Lab_2023-24/assets/127172770/75168e6c-c825-4ede-b6a9-87114cdc4127">
+
+
 <img width="285" alt="image" src="https://github.com/Maheswarikarthi/AI_Lab_2023-24/assets/127172770/6e603279-d622-462c-ae71-9ec1bb2d2049">
 
 
