@@ -1,4 +1,4 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE:  22.04.2024                                                                      
 ### REGISTER NUMBER : 212221040096
 
@@ -13,6 +13,7 @@ Step 4: Scale the data
 Step 5: Instantiate model
 Step 6: Create a function for gradio
 Step 7: Print Result
+
 
 ### Program:
 ```
